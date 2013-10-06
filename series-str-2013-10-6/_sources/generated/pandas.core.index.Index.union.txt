@@ -1,0 +1,6 @@
+pandas.core.index.Index.union
+=============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.union

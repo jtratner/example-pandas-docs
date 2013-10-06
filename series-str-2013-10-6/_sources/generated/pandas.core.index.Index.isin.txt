@@ -1,0 +1,6 @@
+pandas.core.index.Index.isin
+============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.isin

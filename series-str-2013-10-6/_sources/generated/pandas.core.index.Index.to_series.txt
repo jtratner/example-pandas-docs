@@ -1,0 +1,6 @@
+pandas.core.index.Index.to_series
+=================================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.to_series

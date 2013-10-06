@@ -1,0 +1,6 @@
+pandas.tseries.index.DatetimeIndex.normalize
+============================================
+
+.. currentmodule:: pandas.tseries.index
+
+.. automethod:: DatetimeIndex.normalize

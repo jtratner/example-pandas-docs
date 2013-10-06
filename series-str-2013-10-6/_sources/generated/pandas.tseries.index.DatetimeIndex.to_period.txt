@@ -1,0 +1,6 @@
+pandas.tseries.index.DatetimeIndex.to_period
+============================================
+
+.. currentmodule:: pandas.tseries.index
+
+.. automethod:: DatetimeIndex.to_period

@@ -1,0 +1,6 @@
+pandas.core.index.Index.insert
+==============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.insert

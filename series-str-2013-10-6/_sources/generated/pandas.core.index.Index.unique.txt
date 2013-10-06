@@ -1,0 +1,6 @@
+pandas.core.index.Index.unique
+==============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.unique

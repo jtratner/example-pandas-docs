@@ -1,0 +1,6 @@
+pandas.core.index.Index.argsort
+===============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.argsort

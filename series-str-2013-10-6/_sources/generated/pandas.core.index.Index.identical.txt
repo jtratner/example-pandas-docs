@@ -1,0 +1,6 @@
+pandas.core.index.Index.identical
+=================================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.identical

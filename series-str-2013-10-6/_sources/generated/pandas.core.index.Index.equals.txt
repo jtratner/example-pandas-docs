@@ -1,0 +1,6 @@
+pandas.core.index.Index.equals
+==============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.equals

@@ -1,0 +1,6 @@
+pandas.core.index.Index.set_names
+=================================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.set_names

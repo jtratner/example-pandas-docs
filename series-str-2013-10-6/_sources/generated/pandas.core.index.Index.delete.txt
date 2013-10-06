@@ -1,0 +1,6 @@
+pandas.core.index.Index.delete
+==============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.delete

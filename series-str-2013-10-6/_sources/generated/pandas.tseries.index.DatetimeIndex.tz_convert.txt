@@ -1,0 +1,6 @@
+pandas.tseries.index.DatetimeIndex.tz_convert
+=============================================
+
+.. currentmodule:: pandas.tseries.index
+
+.. automethod:: DatetimeIndex.tz_convert

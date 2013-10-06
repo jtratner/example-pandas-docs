@@ -1,0 +1,6 @@
+pandas.core.index.Index.repeat
+==============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.repeat

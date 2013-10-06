@@ -1,0 +1,6 @@
+pandas.core.index.Index.get_indexer
+===================================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.get_indexer

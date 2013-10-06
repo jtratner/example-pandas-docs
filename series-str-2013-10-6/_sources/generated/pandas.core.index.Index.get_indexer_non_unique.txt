@@ -1,0 +1,6 @@
+pandas.core.index.Index.get_indexer_non_unique
+==============================================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.get_indexer_non_unique

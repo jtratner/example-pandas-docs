@@ -1,0 +1,6 @@
+pandas.core.index.Index.is_numeric
+==================================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.is_numeric

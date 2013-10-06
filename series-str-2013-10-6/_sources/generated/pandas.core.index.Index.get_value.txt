@@ -1,0 +1,6 @@
+pandas.core.index.Index.get_value
+=================================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.get_value

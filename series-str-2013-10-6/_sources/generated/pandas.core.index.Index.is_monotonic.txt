@@ -1,0 +1,6 @@
+pandas.core.index.Index.is_monotonic
+====================================
+
+.. currentmodule:: pandas.core.index
+
+.. autoattribute:: Index.is_monotonic

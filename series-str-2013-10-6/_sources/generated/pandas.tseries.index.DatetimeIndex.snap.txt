@@ -1,0 +1,6 @@
+pandas.tseries.index.DatetimeIndex.snap
+=======================================
+
+.. currentmodule:: pandas.tseries.index
+
+.. automethod:: DatetimeIndex.snap

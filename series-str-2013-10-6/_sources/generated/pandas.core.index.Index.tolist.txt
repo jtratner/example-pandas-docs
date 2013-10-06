@@ -1,0 +1,6 @@
+pandas.core.index.Index.tolist
+==============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.tolist

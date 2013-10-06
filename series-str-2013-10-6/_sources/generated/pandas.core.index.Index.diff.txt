@@ -1,0 +1,6 @@
+pandas.core.index.Index.diff
+============================
+
+.. currentmodule:: pandas.core.index
+
+.. automethod:: Index.diff

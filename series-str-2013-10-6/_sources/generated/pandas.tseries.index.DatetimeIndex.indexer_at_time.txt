@@ -1,0 +1,6 @@
+pandas.tseries.index.DatetimeIndex.indexer_at_time
+==================================================
+
+.. currentmodule:: pandas.tseries.index
+
+.. automethod:: DatetimeIndex.indexer_at_time
